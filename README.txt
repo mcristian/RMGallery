@@ -7,3 +7,8 @@ http://tympanus.net/Development/GridNavigationEffects/example10.html
 http://demo.graphpaperpress.com/mansion/
 
 Facebook Photo API: https://developers.facebook.com/docs/reference/api/photo/
+
+Below is an PHP example with what we wanted:
+https://developers.facebook.com/blog/post/498/
+
+
